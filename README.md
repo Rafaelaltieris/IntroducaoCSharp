@@ -1,7 +1,3 @@
-Aqui está uma versão simplificada do **README** sem os exemplos detalhados, focando em como clonar o repositório e o conteúdo que ele abrange:
-
----
-
 # Introdução ao C#
 
 Este repositório contém uma série de exemplos introdutórios sobre a linguagem C#. Os exemplos abordam os conceitos fundamentais para iniciantes, proporcionando uma base sólida para quem deseja aprender ou revisar os principais tópicos da linguagem.
@@ -30,7 +26,3 @@ Esses exemplos foram projetados para facilitar o aprendizado e a prática dos co
 ## Contribuições
 
 Contribuições são bem-vindas! Se você tiver novos exemplos ou melhorias, sinta-se à vontade para enviar um pull request.
-
----
-
-Assim, o **README** é direto e oferece uma visão clara do conteúdo que o repositório abrange, sem entrar em muitos detalhes.
