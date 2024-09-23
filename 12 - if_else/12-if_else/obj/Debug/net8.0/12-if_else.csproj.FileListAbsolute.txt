@@ -1,0 +1,14 @@
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\12-if_else\12-if_else\bin\Debug\net8.0\12-if_else.exe
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\12-if_else\12-if_else\bin\Debug\net8.0\12-if_else.deps.json
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\12-if_else\12-if_else\bin\Debug\net8.0\12-if_else.runtimeconfig.json
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\12-if_else\12-if_else\bin\Debug\net8.0\12-if_else.dll
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\12-if_else\12-if_else\bin\Debug\net8.0\12-if_else.pdb
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\12-if_else\12-if_else\obj\Debug\net8.0\12-if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\12-if_else\12-if_else\obj\Debug\net8.0\12-if_else.AssemblyInfoInputs.cache
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\12-if_else\12-if_else\obj\Debug\net8.0\12-if_else.AssemblyInfo.cs
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\12-if_else\12-if_else\obj\Debug\net8.0\12-if_else.csproj.CoreCompileInputs.cache
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\12-if_else\12-if_else\obj\Debug\net8.0\12-if_else.dll
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\12-if_else\12-if_else\obj\Debug\net8.0\refint\12-if_else.dll
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\12-if_else\12-if_else\obj\Debug\net8.0\12-if_else.pdb
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\12-if_else\12-if_else\obj\Debug\net8.0\12-if_else.genruntimeconfig.cache
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\12-if_else\12-if_else\obj\Debug\net8.0\ref\12-if_else.dll

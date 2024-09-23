@@ -1,0 +1,14 @@
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\Entrada_Dados\Entrada_Dados\bin\Debug\net8.0\Entrada_Dados.exe
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\Entrada_Dados\Entrada_Dados\bin\Debug\net8.0\Entrada_Dados.deps.json
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\Entrada_Dados\Entrada_Dados\bin\Debug\net8.0\Entrada_Dados.runtimeconfig.json
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\Entrada_Dados\Entrada_Dados\bin\Debug\net8.0\Entrada_Dados.dll
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\Entrada_Dados\Entrada_Dados\bin\Debug\net8.0\Entrada_Dados.pdb
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\Entrada_Dados\Entrada_Dados\obj\Debug\net8.0\Entrada_Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\Entrada_Dados\Entrada_Dados\obj\Debug\net8.0\Entrada_Dados.AssemblyInfoInputs.cache
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\Entrada_Dados\Entrada_Dados\obj\Debug\net8.0\Entrada_Dados.AssemblyInfo.cs
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\Entrada_Dados\Entrada_Dados\obj\Debug\net8.0\Entrada_Dados.csproj.CoreCompileInputs.cache
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\Entrada_Dados\Entrada_Dados\obj\Debug\net8.0\Entrada_Dados.dll
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\Entrada_Dados\Entrada_Dados\obj\Debug\net8.0\refint\Entrada_Dados.dll
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\Entrada_Dados\Entrada_Dados\obj\Debug\net8.0\Entrada_Dados.pdb
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\Entrada_Dados\Entrada_Dados\obj\Debug\net8.0\Entrada_Dados.genruntimeconfig.cache
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\Entrada_Dados\Entrada_Dados\obj\Debug\net8.0\ref\Entrada_Dados.dll

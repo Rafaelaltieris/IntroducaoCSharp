@@ -1,0 +1,14 @@
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\11-Switch\11-Switch\bin\Debug\net8.0\11-Switch.exe
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\11-Switch\11-Switch\bin\Debug\net8.0\11-Switch.deps.json
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\11-Switch\11-Switch\bin\Debug\net8.0\11-Switch.runtimeconfig.json
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\11-Switch\11-Switch\bin\Debug\net8.0\11-Switch.dll
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\11-Switch\11-Switch\bin\Debug\net8.0\11-Switch.pdb
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\11-Switch\11-Switch\obj\Debug\net8.0\11-Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\11-Switch\11-Switch\obj\Debug\net8.0\11-Switch.AssemblyInfoInputs.cache
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\11-Switch\11-Switch\obj\Debug\net8.0\11-Switch.AssemblyInfo.cs
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\11-Switch\11-Switch\obj\Debug\net8.0\11-Switch.csproj.CoreCompileInputs.cache
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\11-Switch\11-Switch\obj\Debug\net8.0\11-Switch.dll
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\11-Switch\11-Switch\obj\Debug\net8.0\refint\11-Switch.dll
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\11-Switch\11-Switch\obj\Debug\net8.0\11-Switch.pdb
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\11-Switch\11-Switch\obj\Debug\net8.0\11-Switch.genruntimeconfig.cache
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\11-Switch\11-Switch\obj\Debug\net8.0\ref\11-Switch.dll

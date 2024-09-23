@@ -1,0 +1,28 @@
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\Variaveis\Variaveis\bin\Debug\net8.0\Variaveis.exe
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\Variaveis\Variaveis\bin\Debug\net8.0\Variaveis.deps.json
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\Variaveis\Variaveis\bin\Debug\net8.0\Variaveis.runtimeconfig.json
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\Variaveis\Variaveis\bin\Debug\net8.0\Variaveis.dll
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\Variaveis\Variaveis\bin\Debug\net8.0\Variaveis.pdb
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.AssemblyInfoInputs.cache
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.AssemblyInfo.cs
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.dll
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\Variaveis\Variaveis\obj\Debug\net8.0\refint\Variaveis.dll
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.pdb
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.genruntimeconfig.cache
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\Variaveis\Variaveis\obj\Debug\net8.0\ref\Variaveis.dll
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\01 - Variaveis\Variaveis\bin\Debug\net8.0\Variaveis.exe
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\01 - Variaveis\Variaveis\bin\Debug\net8.0\Variaveis.deps.json
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\01 - Variaveis\Variaveis\bin\Debug\net8.0\Variaveis.runtimeconfig.json
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\01 - Variaveis\Variaveis\bin\Debug\net8.0\Variaveis.dll
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\01 - Variaveis\Variaveis\bin\Debug\net8.0\Variaveis.pdb
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\01 - Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\01 - Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.AssemblyInfoInputs.cache
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\01 - Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.AssemblyInfo.cs
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\01 - Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\01 - Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.dll
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\01 - Variaveis\Variaveis\obj\Debug\net8.0\refint\Variaveis.dll
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\01 - Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.pdb
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\01 - Variaveis\Variaveis\obj\Debug\net8.0\Variaveis.genruntimeconfig.cache
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\01 - Variaveis\Variaveis\obj\Debug\net8.0\ref\Variaveis.dll

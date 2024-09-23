@@ -1,0 +1,28 @@
+C:\Users\Professor.SB-1491264\source\repos\13-TryCatch\13-TryCatch\bin\Debug\net8.0\13-TryCatch.exe
+C:\Users\Professor.SB-1491264\source\repos\13-TryCatch\13-TryCatch\bin\Debug\net8.0\13-TryCatch.deps.json
+C:\Users\Professor.SB-1491264\source\repos\13-TryCatch\13-TryCatch\bin\Debug\net8.0\13-TryCatch.runtimeconfig.json
+C:\Users\Professor.SB-1491264\source\repos\13-TryCatch\13-TryCatch\bin\Debug\net8.0\13-TryCatch.dll
+C:\Users\Professor.SB-1491264\source\repos\13-TryCatch\13-TryCatch\bin\Debug\net8.0\13-TryCatch.pdb
+C:\Users\Professor.SB-1491264\source\repos\13-TryCatch\13-TryCatch\obj\Debug\net8.0\13-TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professor.SB-1491264\source\repos\13-TryCatch\13-TryCatch\obj\Debug\net8.0\13-TryCatch.AssemblyInfoInputs.cache
+C:\Users\Professor.SB-1491264\source\repos\13-TryCatch\13-TryCatch\obj\Debug\net8.0\13-TryCatch.AssemblyInfo.cs
+C:\Users\Professor.SB-1491264\source\repos\13-TryCatch\13-TryCatch\obj\Debug\net8.0\13-TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Professor.SB-1491264\source\repos\13-TryCatch\13-TryCatch\obj\Debug\net8.0\13-TryCatch.dll
+C:\Users\Professor.SB-1491264\source\repos\13-TryCatch\13-TryCatch\obj\Debug\net8.0\refint\13-TryCatch.dll
+C:\Users\Professor.SB-1491264\source\repos\13-TryCatch\13-TryCatch\obj\Debug\net8.0\13-TryCatch.pdb
+C:\Users\Professor.SB-1491264\source\repos\13-TryCatch\13-TryCatch\obj\Debug\net8.0\13-TryCatch.genruntimeconfig.cache
+C:\Users\Professor.SB-1491264\source\repos\13-TryCatch\13-TryCatch\obj\Debug\net8.0\ref\13-TryCatch.dll
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\13 - TryCatch\13-TryCatch\bin\Debug\net8.0\13-TryCatch.exe
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\13 - TryCatch\13-TryCatch\bin\Debug\net8.0\13-TryCatch.deps.json
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\13 - TryCatch\13-TryCatch\bin\Debug\net8.0\13-TryCatch.runtimeconfig.json
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\13 - TryCatch\13-TryCatch\bin\Debug\net8.0\13-TryCatch.dll
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\13 - TryCatch\13-TryCatch\bin\Debug\net8.0\13-TryCatch.pdb
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\13 - TryCatch\13-TryCatch\obj\Debug\net8.0\13-TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\13 - TryCatch\13-TryCatch\obj\Debug\net8.0\13-TryCatch.AssemblyInfoInputs.cache
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\13 - TryCatch\13-TryCatch\obj\Debug\net8.0\13-TryCatch.AssemblyInfo.cs
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\13 - TryCatch\13-TryCatch\obj\Debug\net8.0\13-TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\13 - TryCatch\13-TryCatch\obj\Debug\net8.0\13-TryCatch.dll
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\13 - TryCatch\13-TryCatch\obj\Debug\net8.0\refint\13-TryCatch.dll
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\13 - TryCatch\13-TryCatch\obj\Debug\net8.0\13-TryCatch.pdb
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\13 - TryCatch\13-TryCatch\obj\Debug\net8.0\13-TryCatch.genruntimeconfig.cache
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\13 - TryCatch\13-TryCatch\obj\Debug\net8.0\ref\13-TryCatch.dll

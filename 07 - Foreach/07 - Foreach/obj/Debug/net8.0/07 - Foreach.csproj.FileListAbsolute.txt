@@ -1,0 +1,14 @@
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\07 - Foreach\07 - Foreach\bin\Debug\net8.0\07 - Foreach.exe
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\07 - Foreach\07 - Foreach\bin\Debug\net8.0\07 - Foreach.deps.json
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\07 - Foreach\07 - Foreach\bin\Debug\net8.0\07 - Foreach.runtimeconfig.json
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\07 - Foreach\07 - Foreach\bin\Debug\net8.0\07 - Foreach.dll
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\07 - Foreach\07 - Foreach\bin\Debug\net8.0\07 - Foreach.pdb
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\07 - Foreach\07 - Foreach\obj\Debug\net8.0\07 - Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\07 - Foreach\07 - Foreach\obj\Debug\net8.0\07 - Foreach.AssemblyInfoInputs.cache
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\07 - Foreach\07 - Foreach\obj\Debug\net8.0\07 - Foreach.AssemblyInfo.cs
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\07 - Foreach\07 - Foreach\obj\Debug\net8.0\07 - Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\07 - Foreach\07 - Foreach\obj\Debug\net8.0\07 - Foreach.dll
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\07 - Foreach\07 - Foreach\obj\Debug\net8.0\refint\07 - Foreach.dll
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\07 - Foreach\07 - Foreach\obj\Debug\net8.0\07 - Foreach.pdb
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\07 - Foreach\07 - Foreach\obj\Debug\net8.0\07 - Foreach.genruntimeconfig.cache
+C:\Users\Professor.SB-1491264\Desktop\Desenvolvimento Back End\Introdução ao C#\07 - Foreach\07 - Foreach\obj\Debug\net8.0\ref\07 - Foreach.dll

@@ -1,0 +1,14 @@
+C:\Users\Professor.SB-1491264\source\repos\While\While\bin\Debug\net8.0\While.exe
+C:\Users\Professor.SB-1491264\source\repos\While\While\bin\Debug\net8.0\While.deps.json
+C:\Users\Professor.SB-1491264\source\repos\While\While\bin\Debug\net8.0\While.runtimeconfig.json
+C:\Users\Professor.SB-1491264\source\repos\While\While\bin\Debug\net8.0\While.dll
+C:\Users\Professor.SB-1491264\source\repos\While\While\bin\Debug\net8.0\While.pdb
+C:\Users\Professor.SB-1491264\source\repos\While\While\obj\Debug\net8.0\While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professor.SB-1491264\source\repos\While\While\obj\Debug\net8.0\While.AssemblyInfoInputs.cache
+C:\Users\Professor.SB-1491264\source\repos\While\While\obj\Debug\net8.0\While.AssemblyInfo.cs
+C:\Users\Professor.SB-1491264\source\repos\While\While\obj\Debug\net8.0\While.csproj.CoreCompileInputs.cache
+C:\Users\Professor.SB-1491264\source\repos\While\While\obj\Debug\net8.0\While.dll
+C:\Users\Professor.SB-1491264\source\repos\While\While\obj\Debug\net8.0\refint\While.dll
+C:\Users\Professor.SB-1491264\source\repos\While\While\obj\Debug\net8.0\While.pdb
+C:\Users\Professor.SB-1491264\source\repos\While\While\obj\Debug\net8.0\While.genruntimeconfig.cache
+C:\Users\Professor.SB-1491264\source\repos\While\While\obj\Debug\net8.0\ref\While.dll
